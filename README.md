@@ -16,10 +16,9 @@
 
 ###Goals
 * Create a Daily Dashboard protoype for yourself, your information, & your lifestyle
+* Paper sketching. Paper is fast, low fidelity, and infinitely flexible. 
 * Design a prototype first with JetStrap utilizing the Twitter Bootstrap
 * Then finalize with a visual design, and semi-working prototype
 * Note: Not all features can be created, e.g. iTunes Player, but do add ones that an be, e.g. Twitter feed. Have as many working/functional components as possible. 
 * Use GitHub. Commit early and often.
 
-###Prototype A
-* Due, Friday Feb. 1 at 8:30am for first review

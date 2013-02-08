@@ -25,24 +25,33 @@
 
 ###Process
 
-> Linear process with assignments, with an ongoing 
+> Linear process with assignments, with ongoing revisions
 
 ###Due Dates
 
 ####Assignment 0 - Setup
 * Due Feb. 1
-* Submit link to GitHub Pages *site*
+* Link GitHub repo
+* Link to public facing 'gh-pages' branch/site
 
 ####Assignment 1 - Project Definition
 * Due Feb. 8
-* Submit link to wiki page - "Project Definition"
+* Create "Project Definition" page on Wiki
 
 ####Assignment 2 - Research
 * Due Feb. 15
-* Submit link to wiki page - "Research" 
+* Create "Research" page on Wiki
 
 ####Assignment 3 - Sketches
 * Due Feb. 22
-* Submit link InVision App with sketches
+* Save paper sketches to repo. Scan/photograph paper sketches.
+* Upload sketches to InVision app
+* Provide _**share**_ link to Invion app
 * Critique sketches of your classmates
+
+####Assignment 4 - Prototype
+* Due. March 1
+* Use JetStrap to create functional prototype
+* Make available on 'gh-pages' branch/site
+* Critique classmates websites
 
